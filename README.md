@@ -116,3 +116,7 @@ npm run build
 ## License
 
 MIT — do with it what you will.
+
+---
+
+Built by **Girish Lade** — [ladestack.in](https://ladestack.in)
